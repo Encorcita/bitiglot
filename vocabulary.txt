@@ -183,9 +183,12 @@ küstah:deŋsiz
 ejderha:büke
 kubbe:evren
 rastla-:tuş-
+rastlaş-:tuşuş-
 sosyoloji:öğür savı
 hazine:kazı
 arkeoloji:kazım savı
 ceset:ölü
-lağvet-:yokat-
-lağvol-:yokal-
+lağvet-:yoğat-
+lağvol-:yoğal-
+hayat:yaşam
+aksettir-:yanıt-
