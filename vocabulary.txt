@@ -171,3 +171,6 @@ lisan:dil
 mevcudiyet:bolu
 izah et-:ukut-
 idrak et-:uk-
+talim et-:boşur-
+kayıtsız:boş
+vakum:boşluk
