@@ -190,14 +190,22 @@ vakum:boşluk
 vatan:yer su
 video:oynatı
 yabancı:yad
+hane:ev
 yüzük parmağı:atsız barmak
 zanaat:eylik
 zehir:ağı
+transhumanist:yalŋıküstücü
+transhumanizm:yalŋıküstücülük
+zorluk:güçlük
 zeka:aŋlak
+terbiye:boşurum
+tenkit:eleştiri
 zengin:bay
 zenginlik:baylık
 zerdali:sarı erik
 zihin:uku
+sulh:barış
+hikâye:öykünç
 ziynet:bezek
 riyasete geçir-:başat-
 zulüm:ezinç
@@ -207,9 +215,11 @@ zulüm:ezinç
 ötken:tarih
 ütopya:düşre
 şafak:taŋ
+pişman ol-:kayın-
 amir:başlatıcı
 şahsi:özlük
 zayıf:beksiz
 şarap:sücü
 ressam:beyizci
 şey:neŋ
+mahrum kal-:yoksun-
