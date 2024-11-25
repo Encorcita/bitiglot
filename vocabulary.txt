@@ -78,6 +78,12 @@ hız:tavuş
 idrak et-:uk-
 iktidar:erk
 ilah:taŋrı
+ihanet et-:alda-
+efsun:büyü
+izin:boşu
+azat et-:boş kıl-
+peydah ol-:var-
+nakışlan-:bezen-
 ilahi:taŋrıdam
 ilkah et-:dölle-
 ilm-i kıyafet:kılık savı
