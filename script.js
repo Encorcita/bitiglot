@@ -54,7 +54,7 @@ input.addEventListener('input', () => {
                 }
             });
         } else {
-            result.innerHTML = 'Ana Türkçe (Proto-Turkic) çıkışlı sözcükleri geçmişlerini eşelediğimiz <span class="emphasis">köken sözlüğümüze</span> de göz atmayı unutmayın!';
+            result.innerHTML = 'Ana Türkçe (Proto-Turkic) çıkışlı sözcüklerin izini sürdüğümüz <span class="emphasis">köken sözlüğümüze</span> de göz atmayı unutmayın!';
         }
     } else {
         showRandomWords();
