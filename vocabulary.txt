@@ -154,6 +154,9 @@ rastlaş-:tuşuş-
 rasyonalist:usçu
 rasyonalizm:usçuluk
 realist:gerçekçi
+ar et-:ūtan-
+ar:ūt
+arlan-:ūtlan-
 realizm:gerçekçilik
 refah:geŋlik
 resim:beyiz
