@@ -6,6 +6,7 @@ absürtçe:abukça
 abıhayat:beŋgilik suyu
 adalet:gönülük
 adam:er
+fon:art alan
 adamcık:erŋek
 adil:gönü
 aksettir-:yanıt-
@@ -17,6 +18,7 @@ arkeoloji:kazım savı
 asimptot:tuşuşmaz
 ateş:od
 avangart:başat
+lore:art anlatı
 ayna:gözŋü
 bağrur:başlı
 beyaz:ak
