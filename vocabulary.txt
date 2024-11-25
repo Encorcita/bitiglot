@@ -162,6 +162,7 @@ refah:geŋlik
 resim:beyiz
 rey:oy
 rüya:dül
+cevher:töz
 rüzgâr:yel
 sade:yalıŋ
 saf:som
