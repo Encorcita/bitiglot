@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Poppins';
-  src: url('poppins.woff2');
+  font-family: 'Futura';
+  src: url('futura.woff2');
   font-weight: 400;
 }
 
@@ -11,7 +11,7 @@
 
 body {
   background-color: #151515;
-  font-family: Poppins;
+  font-family: Futura;
   display: flex;
   flex-direction: column;
   align-items: center;
