@@ -1,0 +1,209 @@
+ab:su
+absürdist:abukçu
+absürdizm:abukçuluk
+absürt:abuk
+absürtçe:abukça
+abıhayat:beŋgilik suyu
+adalet:gönülük
+adam:er
+adamcık:erŋek
+adil:gönü
+aksettir-:yanıt-
+akıl:es
+amel:işleği
+anahtar:açkı
+anahtarlık:açkılık
+arkeoloji:kazım savı
+asimptot:tuşuşmaz
+ateş:od
+avangart:başat
+ayna:gözŋü
+bağrur:başlı
+beyaz:ak
+borç:alım
+canlı:diri
+cemaat:öğür
+ceset:ölü
+cevap:yanıt
+ceza:kın
+cezaevi:kınlık
+cumhurbaşkanı:boyun başkanı
+cumhuriyet:boyunluk
+ders:boşut
+devlet:él
+doktrin:öğreti
+duvar:dam
+dünya:él gün
+ebedi:beŋgi
+ego:ben
+egzistansiyalist:varoluşçu
+egzistansiyalizm:varoluşçuluk
+ejderha:büke
+emir:buyruk
+empirist:édinimci
+empirizm:édinimcilik
+estetik:uz
+faiz:ösüm
+fark:ayırt
+fasikül:biticik
+taksim et-:böl-
+münasip:iyili
+tamamıyla:birdem
+felsefe:sakış
+muallim:boşutçu
+fena:yavuz
+fikir:sakınç
+fizik:yaraş savı
+günah:yazık
+hafıza:estelik
+halk:boyun
+hasis:suk
+hayal:düş
+hayat:yaraştam
+hayat:yaşam
+haymatlos:élsiz
+hazine:kazı
+hazır:anık
+hazırla-:anıkla-
+her:değme
+hikmet:bili
+hisse:ülüş
+humanist:yalŋıkçı
+humanizm:yalŋıkçılık
+huri:geŋ gözlü
+huy:kılınç
+huzur:erinç
+hücre:giz
+hız:tavuş
+idrak et-:uk-
+iktidar:erk
+ilah:taŋrı
+ilahi:taŋrıdam
+ilkah et-:dölle-
+ilm-i kıyafet:kılık savı
+imtihan:sınağı
+insan:yalŋık
+isim:ad
+izah et-:ukut-
+izdivaç:güyen
+kadar:deği
+kafa:baş
+kainat:yaşağı
+kategori:ulam
+kayıtsız:boş
+kelam:söz
+kelime:sözcük
+kemiyet:nicelik
+kepez:götkü
+kitap:biti
+kitaplık:bitilik
+komün:üleşim
+komünist:üleşimci
+komünizm:üleşimcilik
+kubbe:evren
+kâmil:dölek
+küstah:deŋsiz
+kütüphane:biti evi
+kına:boya
+kıyafet:kılık
+kıyamet:gönülük günü
+lağvet-:yoğat-
+lağvol-:yoğal-
+lezbiyen:sürtük
+libido:üyü
+lisan:dil
+logos:sav
+mahiyet:nitelik
+makam:orun
+mal:ey
+mantık:eseme
+mağrur:güvez
+mekan:bark
+meta:satı
+mevcudiyet:bolu
+meşgale:iş güç
+misal:okşağı
+muktedir:erkli
+hükümdar:erklik
+hakimiyet sürdür-:erksindir-
+kuvvetsiz kal-:erksire-
+kudretlen-:erksin-
+mühür:damga
+mühürdar:damgacı
+nasıl:nite
+naturalist:yaraşçı
+naturalizm:yaraşçılık
+ne kadar:nice
+netice:sonuç
+nominalist:adcı
+nominalizm:adcılık
+numune:gip
+organ:sın
+organizma:sınlık
+parça:ülü
+parçacık:ülücük
+pay:üleş
+rastla-:tuş-
+rastlaş-:tuşuş-
+rasyonalist:usçu
+rasyonalizm:usçuluk
+realist:gerçekçi
+realizm:gerçekçilik
+refah:geŋlik
+resim:beyiz
+rey:oy
+rüya:dül
+rüzgâr:yel
+sade:yalıŋ
+saf:som
+samimi:ulaşık
+sanat:uzluk
+sanatkâr:uzmaç
+sema:gök
+siyah:kara
+solar:gündem
+sosyalist:öğürcü
+sosyalizm:öğürcülük
+sosyoloji:öğür savı
+sual:soru
+sürat:tavrak
+sıhhat:dirlik
+sırf:salt
+tabiat:yaraş
+tabii:yaraştam
+talim et-:boşur-
+tehlike:aya
+teist:inançlı
+teizm:inançlılık
+teksir et-:artılat-
+temaşa et-:iyer-
+temiz:arı
+tuvalet:ayak yolu
+tümor:ur
+vakum:boşluk
+vatan:yer su
+video:oynatı
+yabancı:yad
+yüzük parmağı:atsız barmak
+zanaat:eylik
+zehir:ağı
+zeka:aŋlak
+zengin:bay
+zenginlik:baylık
+zerdali:sarı erik
+zihin:uku
+ziynet:bezek
+riyasete geçir-:başat-
+zulüm:ezinç
+çeşitli:türlü
+çilingir:açtacı
+çilingirlik:açtacılık
+ötken:tarih
+ütopya:düşre
+şafak:taŋ
+amir:başlatıcı
+şahsi:özlük
+zayıf:beksiz
+şarap:sücü
+ressam:beyizci
+şey:neŋ
