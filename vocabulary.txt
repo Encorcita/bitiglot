@@ -174,3 +174,11 @@ idrak et-:uk-
 talim et-:boşur-
 kayıtsız:boş
 vakum:boşluk
+cumhurbaşkanı:boyun başkanı
+kıyafet:kılık
+ilm-i kıyafet:kılık savı
+empirizm:édinimcilik
+empirist:édinimci
+küstah:deŋsiz
+ejderha:büke
+kubbe:evren
