@@ -26,7 +26,7 @@ input {
   font-size: 17px;
   background: linear-gradient(to bottom, #421924, #682639);
   border: transparent;
-  color: rgb(255, 255, 255);
+  color: #ffffff;
   outline: none;
   border-radius: 0 0 10px 10px;
   padding-left: 15px;
@@ -34,11 +34,11 @@ input {
 }
 
 input:focus{
-  box-shadow: 0 8px 16px rgb(0, 0, 0);
+  box-shadow: 0 8px 16px #000000;
 }
 
 input::placeholder {
-  color: rgb(255, 255, 255);
+  color: #ffffff;
   text-align: center;
 }
 
@@ -52,4 +52,22 @@ input:focus::placeholder {
   color: #f0f0f0;
   width: 320px;
   text-align: center;
+}
+
+::selection {
+    background: transparent;
+    text-decoration: underline;
+    color: inherit;
+}
+
+::-moz-selection {
+    background: transparent;
+    text-decoration: underline;
+    color: inherit;
+}
+
+::-ms-selection {
+    background: transparent;
+    text-decoration: underline;
+    color: inherit;
 }
