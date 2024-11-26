@@ -1,231 +1,313 @@
+mühürlük:damgalık
 ab:su
+abıhayat:beŋgilik suyu
+absürd:abuk
 absürdist:abukçu
 absürdizm:abukçuluk
-absürt:abuk
-absürtçe:abukça
-abıhayat:beŋgilik suyu
 adalet:gönülük
 adam:er
-fon:art alan
 adamcık:erŋek
 adil:gönü
-aksettir-:yanıt-
+akıl ét-:usla-
 akıl:es
+aksettir-:yanıt-
+alfabe:abece
 amel:işleği
+amir:başlatıcı
 anahtar:açkı
 anahtarlık:açkılık
+anonimleşmiş:adsırak
+ar et-:ūtan-
+ar:ūt
 arkeoloji:kazım savı
+arlan-:ūtlan-
+arzu ét-:kın-
+arzu:kınık
 asimptot:tuşuşmaz
 ateş:od
 avangart:başat
-lore:art anlatı
+avangart:başat
+ayakkabı:edik
+ayıpla-:kına-
 ayna:gözŋü
+azat et-:boş kıl-
 bağrur:başlı
-beyaz:ak
-borç:alım
+bedelen:satın
+beniâdem:kişi oğlu
+beşeriyet:yalŋıklık
+borç:alacak
 canlı:diri
+cazip:alımlı
 cemaat:öğür
 ceset:ölü
 cevap:yanıt
+cevher:töz
 ceza:kın
 cezaevi:kınlık
+cilt:deri
+cumhur:boyun
 cumhurbaşkanı:boyun başkanı
 cumhuriyet:boyunluk
+cumhuriyetçi:boyunlukçu
+cumhurreisi:boyun başkanı
+çehre:yüz
+çeşitli:türlü
+çilingir:açtacı
+çilingirlik:açtacılık
 ders:boşut
+devam et-:süreklen-
+devam:sürek
+devamlı:sürekli
+devlet:él
 devlet:él
 doktrin:öğreti
 duvar:dam
 dünya:él gün
 ebedi:beŋgi
+efsun:büyü
 ego:ben
 egzistansiyalist:varoluşçu
 egzistansiyalizm:varoluşçuluk
 ejderha:büke
+elbise:giygi
 emir:buyruk
 empirist:édinimci
 empirizm:édinimcilik
+endişesiz:sakınçsız
 estetik:uz
+eziyet ét-:ācıt-
 faiz:ösüm
 fark:ayırt
+fasa fiso:abuk sabuk
 fasikül:biticik
-taksim et-:böl-
-münasip:iyili
-tamamıyla:birdem
+feda édil-:adan-
+feda ét-:ada-
 felsefe:sakış
-muallim:boşutçu
 fena:yavuz
-fikir:sakınç
 fizik:yaraş savı
+fon:art alan
+ghostla-:gölü-
+ghostlan-:gölün-
 günah:yazık
 hafıza:estelik
-halk:boyun
+hakimiyet sürdür-:erksindir-
+hane:ev
 hasis:suk
 hayal:düş
 hayat:yaraştam
 hayat:yaşam
-haymatlos:élsiz
+haymatlos:élsirek
 hazine:kazı
 hazır:anık
 hazırla-:anıkla-
 her:değme
+hiçlik:yokluk
+hikâye:öykünç
 hikmet:bili
+hile:al
 hisse:ülüş
-humanist:yalŋıkçı
+hız:tavuş
+humanist:ömyalŋıkçı
 humanizm:yalŋıkçılık
 huri:geŋ gözlü
 huy:kılınç
 huzur:erinç
 hücre:giz
-hız:tavuş
+hükümdar:erklik
+içtinap ét-:sakın-
+idrak ét-:esle-
 idrak et-:uk-
+ihanet édil-:aldan-
+ihanet ét-:alda-
+ihtiyar:karı
+ihtiyarla-:karı-
 iktidar:erk
+iktidardan düş-:erksire-
 ilah:taŋrı
-ihanet et-:alda-
-efsun:büyü
-izin:boşu
-azat et-:boş kıl-
-peydah ol-:var-
-nakışlan-:bezen-
 ilahi:taŋrıdam
 ilkah et-:dölle-
 ilm-i kıyafet:kılık savı
 imtihan:sınağı
 insan:yalŋık
 isim:ad
+isimsiz:adsız
+itibar:sanlı
 izah et-:ukut-
+ızdırap:ācı
 izdivaç:güyen
+izin:boşu
 kadar:deği
 kafa:baş
+kafa:baş
 kainat:yaşağı
+kâmil:dölek
 kategori:ulam
 kayıtsız:boş
 kelam:söz
 kelime:sözcük
 kemiyet:nicelik
 kepez:götkü
+kına:boya
 kitap:biti
 kitaplık:bitilik
+kıyafet:kılık
+kıyafetsiz:kılıksız
+kıyamet:gönülük günü
+koalisyon kur-:boyna-
 komün:üleşim
 komünist:üleşimci
 komünizm:üleşimcilik
+kredi:alım
 kubbe:evren
-kâmil:dölek
+kudretlen-:erksin-
+kumpas kur-:aldat-
+kuvvetsiz kal-:erksire-
+kuvvetsiz:güçsüz
+kuvvetten düşür-:güçsüre-
 küstah:deŋsiz
 kütüphane:biti evi
-kına:boya
-kıyafet:kılık
-kıyamet:gönülük günü
 lağvet-:yoğat-
 lağvol-:yoğal-
 lezbiyen:sürtük
 libido:üyü
 lisan:dil
 logos:sav
+lore:art anlatı
+mağrur:güvez
 mahiyet:nitelik
+mahrum kal-:yoksun-
 makam:orun
 mal:ey
 mantık:eseme
-mağrur:güvez
+meal:aŋlam
+mebzul:sansız
 mekan:bark
+memur:élçi
+merhamet ét-:ācı-
+meşgale:iş güç
 meta:satı
 mevcudiyet:bolu
-meşgale:iş güç
 misal:okşağı
+muallim:boşutçu
+muhafız:gözetici
+mukriz:alacaklı
 muktedir:erkli
-hükümdar:erklik
-hakimiyet sürdür-:erksindir-
-kuvvetsiz kal-:erksire-
-kudretlen-:erksin-
+mühür:damga
 mühür:damga
 mühürdar:damgacı
+mühürdar:damgacı
+münasip:iyili
+nakışlan-:bezen-
 nasıl:nite
 naturalist:yaraşçı
 naturalizm:yaraşçılık
 ne kadar:nice
 netice:sonuç
+nezir:adak
+nihilist:yokçu
+nihilizm:yokçuluk
+niyaz ét-:yalvar-
+nominal:adca
 nominalist:adcı
 nominalizm:adcılık
 numune:gip
+ohrwurm:yırsıŋ
 organ:sın
 organizma:sınlık
+ötken:tarih
 parça:ülü
 parçacık:ülücük
 pay:üleş
+peydah ol-:var-
+peygamber:yalvaç
+pişman ol-:kayın-
+plan:sakınç
 rastla-:tuş-
 rastlaş-:tuşuş-
 rasyonalist:usçu
 rasyonalizm:usçuluk
 realist:gerçekçi
-ar et-:ūtan-
-ar:ūt
-arlan-:ūtlan-
 realizm:gerçekçilik
 refah:geŋlik
+reis:başkan
 resim:beyiz
+ressam:beyizci
 rey:oy
+riyasete geçir-:başat-
+rol yap-:adsın-
 rüya:dül
-cevher:töz
 rüzgâr:yel
+saadet:kut
 sade:yalıŋ
 saf:som
 samimi:ulaşık
 sanat:uzluk
 sanatkâr:uzmaç
+sandalet:başmak
+satıh:yüzek
 sema:gök
+sıfat:öŋ ad
+sıhhat:dirlik
+sincap:teyin
+sınırdışı ét-:élsiret-
+sırf:salt
 siyah:kara
 solar:gündem
 sosyalist:öğürcü
 sosyalizm:öğürcülük
 sosyoloji:öğür savı
 sual:soru
+sulh:barış
 sürat:tavrak
-sıhhat:dirlik
-sırf:salt
+şafak:taŋ
+şahsi:özlük
+şapka:başdırık
+şarap:sücü
+şey:neŋ
 tabiat:yaraş
 tabii:yaraştam
+taksim ét-:böl-
 talim et-:boşur-
+tamamıyla:birdem
+tedavi ét-:ota-
 tehlike:aya
 teist:inançlı
 teizm:inançlılık
 teksir et-:artılat-
 temaşa et-:iyer-
 temiz:arı
+tenkit:eleştiri
+terapötik flebotomi:kanar-
+terbiye:boşurum
+terfi ét-:yükse-
+tıraş ét-:yülüt-
+tıraş ol-:yülün-
+tıraş:yülü
+trans:öte
+transhumanist:öte yalŋıkçı
+transhumanizm:öte yalŋıkçılık
 tuvalet:ayak yolu
 tümor:ur
+ütopya:düşre
 vakum:boşluk
 vatan:yer su
+vatansız:élsiz
+vazife:ödeği
 video:oynatı
 yabancı:yad
-hane:ev
 yüzük parmağı:atsız barmak
 zanaat:eylik
+zayıf:beksiz
 zehir:ağı
-transhumanist:yalŋıküstücü
-transhumanizm:yalŋıküstücülük
-zorluk:güçlük
+zehirli:ağılı
+zehirsiz:ağısız
 zeka:aŋlak
-terbiye:boşurum
-tenkit:eleştiri
 zengin:bay
 zenginlik:baylık
-zerdali:sarı erik
+zerdali:sarı érik
 zihin:uku
-sulh:barış
-hikâye:öykünç
+zırh:giyim
 ziynet:bezek
-riyasete geçir-:başat-
+zorluk:güçlük
+zuhur ét-:yüzlen-
 zulüm:ezinç
-çeşitli:türlü
-çilingir:açtacı
-çilingirlik:açtacılık
-ötken:tarih
-ütopya:düşre
-şafak:taŋ
-pişman ol-:kayın-
-amir:başlatıcı
-şahsi:özlük
-zayıf:beksiz
-şarap:sücü
-ressam:beyizci
-şey:neŋ
-mahrum kal-:yoksun-
