@@ -13,6 +13,9 @@ akıl:es
 cringe:kırınç
 aksettir-:yanıt-
 alfabe:abece
+monolog:savlanı
+diyalog:savlaşı
+cringe ol-:kırın-
 amel:işleği
 amir:başlatıcı
 anahtar:açkı
