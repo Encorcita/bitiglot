@@ -4,6 +4,7 @@ abıhayat:beŋgilik suyu
 absürd:abuk
 absürdist:abukçu
 absürdizm:abukçuluk
+hasis:suk
 adalet:gönülük
 adam:er
 adamcık:erŋek
