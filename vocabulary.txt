@@ -8,6 +8,7 @@ hasis:suk
 adalet:gönülük
 adam:er
 adamcık:erŋek
+posta:yam
 adil:gönü
 akıl ét-:usla-
 akıl:es
