@@ -1,5 +1,6 @@
 mühürlük:damgalık
 ab:su
+kebap:soğülme
 abıhayat:beŋgilik suyu
 absürd:abuk
 absürdist:abukçu
